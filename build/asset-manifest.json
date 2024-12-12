@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46b9431f.css",
+    "main.js": "/static/js/main.66685736.js",
+    "static/media/capture_bmp": "/static/media/capture_20240908122716079.401388a9bddc151a09a7.bmp",
+    "static/media/mycompound.bmp": "/static/media/mycompound.107497138c704cec8e4d.bmp",
+    "static/media/Seal The Deal.png": "/static/media/Seal The Deal.189a9680b089238b6936.png",
+    "static/media/Anime-Server-Action.png": "/static/media/Anime-Server-Action.496f26ec6d4d81ac1d1c.png",
+    "static/media/MERN Stack App.png": "/static/media/MERN Stack App.7bc27c4de739d2b327fe.png",
+    "static/media/Realtime Chat App.png": "/static/media/Realtime Chat App.259f9c1906c35d28f10e.png",
+    "static/media/WhatsApp_Image_2023-11-19_at_10.45.23_f0c0ac87-removebg-preview.png": "/static/media/WhatsApp_Image_2023-11-19_at_10.45.23_f0c0ac87-removebg-preview.cd1985edb78814309e74.png",
+    "static/media/bannerImg.png": "/static/media/bannerImg.caa3d5e2872e84d77cf2.png",
+    "static/media/Personal Budget Tracker.png": "/static/media/Personal Budget Tracker.68bcdd11d259a4ce9452.png",
+    "static/media/contactImg.png": "/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/testimonialOne.png": "/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/testimonialTwo.png": "/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/logo-no-background.png": "/static/media/logo-no-background.1b3996088fd1a69bf4be.png",
+    "index.html": "/index.html",
+    "main.46b9431f.css.map": "/static/css/main.46b9431f.css.map",
+    "main.66685736.js.map": "/static/js/main.66685736.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46b9431f.css",
+    "static/js/main.66685736.js"
+  ]
+}
