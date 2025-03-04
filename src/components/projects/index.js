@@ -5,9 +5,20 @@ import MERNStackApplication from '../../assets/images/projects/MERN Stack App.pn
 import SealTheDeal from '../../assets/images/projects/Seal The Deal.png';
 import PersonalBudgetTracker from '../../assets/images/projects/Personal Budget Tracker.png';
 import AnimeServerAction from '../../assets/images/projects/Anime-Server-Action.png';
+import OnlineBusinessSolution from '../../assets/images/projects/OnlineBussines Sloution.bmp';
+
 
 
 export const AllOfMyProjects = [
+    {
+        id: 1,
+        image: OnlineBusinessSolution,
+        name: 'Online Business Solution',
+        description: 'Online Business Solution is a modern landing page application that allows users to search for businesses and get information about them. The application has a user-friendly interface and is optimized for mobile devices for a seamless user experience.',
+        technologies: ['React', 'React Awesome Reveal', 'TailwindCSS', 'React Icons', 'React Router Dom' ],
+        repository: 'https://github.com/Mohamed-cyber-hub/online-bussines-sloution',
+        liveDemo: 'https://online-bussines-sloution.vercel.app/',
+    },
     {
         id: 1,
         image: RealtimeChatApp,
